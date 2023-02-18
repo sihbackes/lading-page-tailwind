@@ -8,13 +8,9 @@ module.exports = {
         '125px': '125px'
       },
       backgroundImage: theme => ({
-        'theme': "url('https://cdn.pixabay.com/photo/2022/07/31/04/42/seat-7354939_960_720.png')",
-        'theme-mobile': "url('https://cdn.pixabay.com/photo/2015/09/13/20/32/checks-938700_960_720.jpg')"
+        'theme': "url('https://cdn.pixabay.com/photo/2017/10/30/16/38/music-2902891_960_720.jpg')",
+        'theme-mobile': "url('https://images.unsplash.com/photo-1564352969906-8b7f46ba4b8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80')"
       }),
-      backgroundSize: {
-        '175%': '175%',
-        '195%': '195%'
-      },
     },
   },
   plugins: [],
